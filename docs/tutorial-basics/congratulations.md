@@ -11,6 +11,15 @@ Richard Franco, giáo sư Đại học Alabama tại Birmingham, bang Alabama, M
 "Rõ ràng đây là chủng virus rất nguy hiểm, nguy hiểm hơn nhiều so với chủng ban đầu", Franco nói.
 
 
+
+42
+Thời sựThứ tư, 4/8/2021, 12:09 (GMT+7)
+** Cách ly 7 ngày người nhập cảnh tiêm đủ liều vaccine **
+Người nhập cảnh đã tiêm đủ liều vaccine Covid-19 và xét nghiệm PCR âm tính sẽ được cách ly tập trung 7 ngày, theo dõi sức khỏe 7 ngày tiếp theo.
+
+Ngày 4/8, Bộ Y tế ban hành văn bản về việc giảm thời gian cách ly tập trung với người nhập cảnh đã tiêm đủ liều vaccine Covid-19. Theo đó, người nhập cảnh sẽ được giảm thời gian cách ly tập trung nếu kết quả xét nghiệm âm tính bằng phương pháp PCR trong 72h, có giấy chứng nhận của cơ quan có thẩm quyền nước thực hiện xét nghiệm cấp; đã tiêm đủ liều vaccine Covid-19, liều cuối cùng tiêm trong ít nhất 14 ngày, không quá 12 tháng tính đến lúc nhập cảnh và có giấy chứng nhận tiêm chủng.
+
+
 You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
 
 Docusaurus has **much more to offer**!
